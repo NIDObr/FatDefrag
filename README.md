@@ -10,6 +10,6 @@ Simple tool for defragmentation, works as follows:
 
 Usage (As ROOT):
  
-     # ./NidoDefrag / dev / sdX
+     # ./NidoDefrag /dev/sdX
      
-Where "/ dev / sdX" is your fragmented drive.
+Where "/dev/sdX" is your fragmented drive.
