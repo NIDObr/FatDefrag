@@ -9,7 +9,7 @@
 # Info:
 #	Defragments FAT systems.
 #	POSIX compatible
-# License: GPLv3+
+# License: BSD-3-Clause License 
 #------------------------------------------------------------------
 
 #---------------------------------VARS-----------------------------
